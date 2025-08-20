@@ -6,8 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link]("https://app.powerbi.com/view?r=eyJrIjoiMDY5ZTEzODItNjE3ZC00OGU2LWFmODUtNWZjMGMzOGZlZDZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9")
-
+[Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiMDY5ZTEzODItNjE3ZC00OGU2LWFmODUtNWZjMGMzOGZlZDZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Tech stacks
 
 - PowerBi Desktop
@@ -176,7 +175,7 @@ In Home view, all the views button will be available. User will land on specific
 - Support
 
 
-you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiZTk3M2M5ZTctNDBiMy00MTk5LWFjMWMtOGNlNzcwMGQ1NWM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+you can find the full report file here : [Report](https://app.powerbi.com/view?r=eyJrIjoiMDY5ZTEzODItNjE3ZC00OGU2LWFmODUtNWZjMGMzOGZlZDZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 
 ## Project Outcome
